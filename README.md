@@ -14,8 +14,7 @@
 <br/>😄&nbsp;Pronouns *HE*
 
 ## Tech Stack
- 
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"alt="heroku"height="25">&nbsp;
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="25">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="25">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="25">&nbsp;

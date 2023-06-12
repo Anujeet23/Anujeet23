@@ -14,7 +14,7 @@
 <br/>😄&nbsp;Pronouns *HE*
 
 ## Tech Stack
-<img src="file:///C:/Users/Anujeet%20Kunturkar/OneDrive/Desktop/java.svg/<Java>-<MESSAGE>-<Black>?logo=<LOGO>&logoColor=<LOGO_COLOR>
+<img src="file:///C:/Users/Anujeet%20Kunturkar/OneDrive/Desktop/java.svg"<Java>-<MESSAGE>-<Black>?logo=<LOGO>&logoColor=<LOGO_COLOR>
 " alt="Java Badge" height="25">&nbsp;
 <img src="c++.png" alt="C++ Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;

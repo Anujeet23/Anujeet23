@@ -14,8 +14,7 @@
 <br/>😄&nbsp;Pronouns *HE*
 
 ## Tech Stack
-<img src="file:///C:/Users/Anujeet%20Kunturkar/OneDrive/Desktop/java.svg"<Java>-<MESSAGE>-<Black>?logo=<LOGO>&logoColor=<LOGO_COLOR>
-" alt="Java Badge" height="25">&nbsp;
+<img src="java.png" alt="Java Badge" height="25">&nbsp;
 <img src="c++.png" alt="C++ Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap" alt="bootstrap Badge" height="25">&nbsp;
@@ -27,8 +26,6 @@
 <img src="https://img.shields.io/badge/Mysql-05122A?style=flat&logo=mysql" alt="mysql Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Php-05122A?style=flat&logo=php" alt="php Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
-
-
 
 ## GitHub Analytics
 <div>

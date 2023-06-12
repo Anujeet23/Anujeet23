@@ -16,7 +16,6 @@
 ## Tech Stack
 <img src="https://img.shields.io/badge/%20-%20Java-black" alt="Java Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/%20-%20C%2B%2B-brightgreen" alt="C++ Badge" height="25">&nbsp;
-<img src="https://icons8.com/icon/92/link/%20-%20C%2B%2B-brightgreen" alt="Demo" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap" alt="bootstrap Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c" alt="c Badge" height="25">&nbsp;

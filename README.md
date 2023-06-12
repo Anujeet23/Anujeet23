@@ -29,6 +29,7 @@
 ## GitHub Analytics
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anujeet23&theme=default&show_icons=true&count_private=true">
+  &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujeet23&theme=default&layout=compact&langs_count=5">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anujeet23&theme=default">
 </div>

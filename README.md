@@ -14,8 +14,8 @@
 <br/>😄&nbsp;Pronouns *HE*
 
 ## Tech Stack
-<img src="java.png" alt="Java Badge" height="25">&nbsp;
-<img src="c++.png" alt="C++ Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/%20-%20Java-black" alt="Java Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/%20-%20C%2B%2B-brightgreen" alt="C++ Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap" alt="bootstrap Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c" alt="c Badge" height="25">&nbsp;
@@ -29,7 +29,6 @@
 ## GitHub Analytics
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anujeet23&theme=default&show_icons=true&count_private=true">
-  &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujeet23&theme=default&layout=compact&langs_count=5">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anujeet23&theme=default">
 </div>

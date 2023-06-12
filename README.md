@@ -15,7 +15,7 @@
 
 ## Tech Stack
 <img src="java.png" alt="Java Badge" height="25">&nbsp;
-<img src="c++.ong" alt="C++ Badge" height="25">&nbsp;
+<img src="c++.nng" alt="C++ Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap" alt="bootstrap Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c" alt="c Badge" height="25">&nbsp;

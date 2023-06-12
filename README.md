@@ -15,10 +15,10 @@
 
 ## Tech Stack
 
-<img src="https://img.shields.io/badge/-Juypter-orange"alt="Juypter-Notebook"height="25">&nbsp;
-<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-black"alt="IntelliJ IDEA"height="25">&nbsp;
-<img src="https://img.shields.io/badge/-VS--Code-blue"alt="Vs-Code"height="25">&nbsp;
-<img src="https://img.shields.io/badge/-Chat--GPT-lightgrey"alt="Chatgpt"height="25">&nbsp;
+<img src="https://img.shields.io/badge/-Juypter-orange" alt="Juypter-Notebook" height="25">&nbsp;
+<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-black" alt="IntelliJ IDEA" height="25">&nbsp;
+<img src="https://img.shields.io/badge/-VS--Code-blue" alt="Vs-Code" height="25">&nbsp;
+<img src="https://img.shields.io/badge/-Chat--GPT-lightgrey" alt="Chatgpt" height="25">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="25">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="25">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="25">&nbsp;

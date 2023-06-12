@@ -14,8 +14,8 @@
 <br/>😄&nbsp;Pronouns *HE*
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/-Java-orange" alt="Java Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/-C%2B%2B-blue" alt="C++ Badge" height="25">&nbsp;
+<img src="" alt="Java Badge" height="25">&nbsp;
+<img src="" alt="C++ Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap" alt="bootstrap Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c" alt="c Badge" height="25">&nbsp;

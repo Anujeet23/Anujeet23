@@ -24,7 +24,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git" alt="git Badge" height="25">&nbsp;
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="25">&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="my-sql" height="25">&nbsp;
 
 <img src="https://img.shields.io/badge/-Juypter-orange" alt="Juypter-Notebook" height="25">&nbsp;

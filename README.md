@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an E-Commerce Website.<br>🎓 Department Computer Engineering.<br>🌱 Learning about Backend.<br>💡 I'm interested about DSA , MERN and ML.<br>💬 Ask me about DSA, JS/React.<br>⚡Fun fact Differentiated Mind With Integrated Focus.
+🔭 I’m currently working.<br>🎓 Department Computer Engineering.<br>🌱 Learning about Backend.<br>💡 I'm interested about DSA , MERN and ML.<br>💬 Ask me about DSA, JS/React.<br>⚡Fun fact Differentiated Mind With Integrated Focus.
 
 
 # 💻 Tech Stack:

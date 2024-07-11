@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at BFast Services.<br>🎓 Department Computer Engineering.<br>🌱 Learning about Backend.<br>💡 I'm interested about DSA , MERN and ML.<br>💬 Ask me about DSA, JS/React.<br>⚡Fun fact Differentiated Mind With Integrated Focus.
+🔭 I’m currently final year student.<br>🎓 Department Computer Engineering.<br>🌱 Learning about Backend.<br>💡 I'm interested about DSA , MERN and ML.<br>💬 Ask me about DSA, JS/React.<br>⚡Fun fact Differentiated Mind With Integrated Focus.
 
 
 # 💻 Tech Stack:
